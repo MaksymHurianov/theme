@@ -1,1 +1,1 @@
-import { default } from './Switch'
+export { default } from './Switch'
